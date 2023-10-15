@@ -5,3 +5,6 @@
 /ShoppingCart/ShoppingCart.API/obj
 /ShoppingCart/.vs/ShoppingCart
 /ShoppingCart/ShoppingCart.Data/obj
+/ShoppingCart/ShoppingCart.API/bin/Debug/net6.0
+*.user
+/ShoppingCart/ShoppingCart.Data/bin/Debug/net6.0
