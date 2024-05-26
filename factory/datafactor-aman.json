@@ -1,0 +1,9 @@
+{
+	"name": "datafactor-aman",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88177aa9-7ae2-4076-acf8-bbb83aa24e7c",
+		"tenantId": "5e57dad7-a990-4f44-b064-071176e6e570"
+	}
+}
